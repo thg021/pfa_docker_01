@@ -1,13 +1,10 @@
-# Desafio: Nginx com Node.js - Code.education
+# Desafio: PFA - Nginx com Node.js - Code.education
 
 Nesse desafio utilizamos o nginx como proxy reverso.
 
-## Features
-
 - Utilizar o nginx como proxy reverso
-- Adicionar uma lista do conteudo que será abordado durante o treinamento full Cycle no banco de dados MySQL
+- Adicionar no banco de dados MySQL uma lista do conteudo que será abordado durante o treinamento full Cycle 
 - Desenvolver uma página para listar os módulos cadastrados no banco.
-
 
 Obs: Não poderá utlizar o docker-composer
 
