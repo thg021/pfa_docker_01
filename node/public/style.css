@@ -1,0 +1,26 @@
+body{
+    margin: 15px;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    font-family: 'Poppins';
+}
+
+h1 {
+    color:#FECD00
+}
+
+ul{
+    padding: 0px;
+    margin: 0px
+}
+
+li {
+    background: rgb(226, 226, 226);
+    padding: 20px;
+    border-radius: 12px;
+    list-style: none;
+    margin: 10px 0;
+}
